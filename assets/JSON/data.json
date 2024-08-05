@@ -6,6 +6,11 @@
     "velocity": "47",
     "distance": "58",
     "isTapped" : false,
+    "images" : [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDToJWEgacesQ_N_4e3pRQ1qHuy02RSal6Mg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADayAX5v5j7C6KtO2u47_UonOXjHLHxYW6w&s",
+      "https://spacetonight.com/wp-content/uploads/2020/01/Mercury-1024x576.jpg"
+    ],
     "description": "Mercury is the closest planet to the Sun and due to its proximity it is not easily seen except during twilight. For every two orbits of the Sun, Mercury completes three rotations about its axis and up until 1965 it was thought that the same side of Mercury constantly faced the Sun. Thirteen times a century Mercury can be observed from the Earth passing across the face of the Sun in an event called a transit, the next will occur on the 9th May 2016."
   },
   {
@@ -15,6 +20,11 @@
     "velocity": "35",
     "distance": "108",
     "isTapped" : false,
+    "images" : [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3U3x7BoAl2pug_TRLN9agl2GVLd1GzpuUA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OxTVGpru7RxLBooDVUvrotNiBEZNAehHiw&s",
+      "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2006/04/animation_of_planet_venus/9650966-4-eng-GB/Animation_of_planet_Venus_pillars.jpg"
+    ],
     "description": "Venus is the second planet from the Sun and is the second brightest object in the night sky after the Moon. Named after the Roman goddess of love and beauty, Venus is the second largest terrestrial planet and is sometimes referred to as the Earth’s sister planet due the their similar size and mass. The surface of the planet is obscured by an opaque layer of clouds made up of sulphuric acid."
   },
   {
@@ -24,6 +34,11 @@
     "velocity": "29",
     "distance": "149",
     "isTapped" : false,
+    "images" : [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9in2FGjWLLWLroBDobJJOca0lKMbOzKpvg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4zh2lgX2kZ8vAwZ8EEKpuq3OUFnMnHuBctQ&s",
+      "https://cdn.create.vista.com/api/media/small/214643198/stock-photo-earth-space-purple-nebula"
+    ],
     "description": "Earth is the third planet from the Sun and is the largest of the terrestrial planets. The Earth is the only planet in our solar system not to be named after a Greek or Roman deity. The Earth was formed approximately 4.54 billion years ago and is the only known planet to support life."
   },
   {
@@ -33,6 +48,11 @@
     "velocity": "24",
     "distance": "227",
     "isTapped" : false,
+    "images" : [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhpE11uDYvmt3bUk-hezCtRB-IB9BKAOeuWA&s",
+      "https://miro.medium.com/v2/resize:fit:1200/1*2n6yiV0A8p8Lyk55gId23Q.jpeg",
+      "https://as2.ftcdn.net/v2/jpg/02/44/98/75/1000_F_244987574_7WXXaMrlHCbW3IYyercYOWUc8XVprEwp.jpg"
+    ],
     "description": "Mars is the fourth planet from the Sun and is the second smallest planet in the solar system. Named after the Roman god of war, Mars is also often described as the “Red Planet” due to its reddish appearance. Mars is a terrestrial planet with a thin atmosphere composed primarily of carbon dioxide."
   },
   {
@@ -42,6 +62,11 @@
     "velocity": "13",
     "distance": "778",
     "isTapped" : false,
+    "images" : [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-q-1BTmrueMsHTYKLNBcf1Faz2IKQlYGjA&s",
+      "https://www.euroschoolindia.com/wp-content/uploads/2023/11/what-is-it-like-inside-jupiter-jpg.webp",
+      "https://universemagazine.com/wp-content/uploads/2023/10/photo_2023-10-26_22-32-59.jpg"
+    ],
     "description": "The planet Jupiter is the fifth planet out from the Sun, and is two and a half times more massive than all the other planets in the solar system combined. It is made primarily of gases and is therefore known as a “gas giant”."
   },
   {
@@ -51,6 +76,11 @@
     "velocity": "9",
     "distance": "1426",
     "isTapped" : false,
+    "images" : [
+      "https://cdn.mos.cms.futurecdn.net/TWpr5dTCno77m2J2aFgLxD-1200-80.jpg",
+      "https://static.vecteezy.com/system/resources/thumbnails/028/150/391/small_2x/a-stunning-space-illustration-of-the-solar-systems-most-majestic-planet-saturn-and-its-moons-ai-generated-photo.jpg",
+      "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/Saturn1.jpeg?size=*:900"
+    ],
     "description": "Saturn is the sixth planet from the Sun and the most distant that can be seen with the naked eye. Saturn is the second largest planet and is best known for its fabulous ring system that was first observed in 1610 by the astronomer Galileo Galilei. Like Jupiter, Saturn is a gas giant and is composed of similar gasses including hydrogen, helium and methane."
   },
   {
@@ -60,6 +90,11 @@
     "velocity": "6",
     "distance": "2870",
     "isTapped" : false,
+    "images" : [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8CWvDBH8zSn_dnrXwAN1724RQNv5qdnGHw&s",
+      "https://ychef.files.bbci.co.uk/1280x720/p0257vk5.jpg",
+      "https://t4.ftcdn.net/jpg/01/43/38/85/360_F_143388514_KBwqhPr2rjbMf6MWqa22RVAj2IOVU1Ve.jpg"
+    ],
     "description": "Uranus is the seventh planet from the Sun. While being visible to the naked eye, it was not recognised as a planet due to its dimness and slow orbit. Uranus became the first planet discovered with the use of a telescope. Uranus is tipped over on its side with an axial tilt of 98 degrees. It is often described as “rolling around the Sun on its side.”"
   },
   {
@@ -69,6 +104,11 @@
     "velocity": "5",
     "distance": "4498",
     "isTapped" : false,
+    "images" : [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOE0lFUuYQKRPDF5Jnpw40XpyuOUpKfLLXBA&s",
+      "https://wallpapers.com/images/hd/neptune-pictures-6fezlk6t40pee9r2.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvquEIM5vZBWCa0VHZ_xGlISLpyYM6DZhzDg&s"
+    ],
     "description": "Neptune is the eighth planet from the Sun making it the most distant in the solar system. This gas giant planet may have formed much closer to the Sun in early solar system history before migrating to its present position."
   },
   {
@@ -78,6 +118,11 @@
     "velocity": "220",
     "distance": "0",
     "isTapped" : false,
+    "images" : [
+      "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638882786/EducationHub/photos/sun-blasts-a-m66-flare.jpg",
+      "https://www.wallpaperflare.com/static/575/733/99/sun-stars-space-light-wallpaper.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCF556blxZ4D-3MfIupsVaXB7pyQ_Ja5ExA&s"
+    ],
     "description": "The Sun (or Sol), is the star at the centre of our solar system and is responsible for the Earth’s climate and weather. The Sun is an almost perfect sphere with a difference of just 10km in diameter between the poles and the equator. The average radius of the Sun is 695,508 km (109.2 x that of the Earth) of which 20–25% is the core."
   }
 ]

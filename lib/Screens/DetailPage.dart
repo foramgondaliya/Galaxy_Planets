@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:galaxy_planets/Model/Favourite.dart';
 
@@ -198,25 +197,25 @@ class _DetailPageState extends State<DetailPage>
                 ),
               ),
               SizedBox(height: 20),
-              Row(
-                children: [
-                  Expanded(
-                    child: Image.network(
-                      data['image'],
-                      height: 200,
-                      fit: BoxFit.cover,
-                    ),
+              if (data['images'] != null && data['images'].isNotEmpty)
+                SizedBox(
+                  height: 200,
+                  child: ListView.builder(
+                    scrollDirection: Axis.horizontal,
+                    itemCount: data['images'].length,
+                    itemBuilder: (context, i) {
+                      return Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 5.0),
+                        child: Image.network(
+                          data['images'][i],
+                          height: 200,
+                          width: 300,
+                          fit: BoxFit.cover,
+                        ),
+                      );
+                    },
                   ),
-                  SizedBox(width: 10),
-                  Expanded(
-                    child: Image.network(
-                      data['image'],
-                      height: 200,
-                      fit: BoxFit.cover,
-                    ),
-                  ),
-                ],
-              ),
+                ),
             ],
           ),
         ),
