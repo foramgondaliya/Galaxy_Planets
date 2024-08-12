@@ -96,7 +96,9 @@ class _DetailPageState extends State<DetailPage>
                                 begin: 0,
                                 end: 80,
                               ),
-                              duration: Duration(seconds: 2),
+                              duration: Duration(
+                                seconds: 2,
+                              ),
                               builder: (context, double position, _) {
                                 return Transform.translate(
                                   offset: Offset(0, position),
@@ -119,7 +121,9 @@ class _DetailPageState extends State<DetailPage>
                               })
                         ],
                       ),
-                      SizedBox(height: 150),
+                      SizedBox(
+                        height: 150,
+                      ),
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceAround,
                         children: [
@@ -205,7 +209,9 @@ class _DetailPageState extends State<DetailPage>
                     itemCount: data['images'].length,
                     itemBuilder: (context, i) {
                       return Padding(
-                        padding: const EdgeInsets.symmetric(horizontal: 5.0),
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 5.0,
+                        ),
                         child: Image.network(
                           data['images'][i],
                           height: 200,

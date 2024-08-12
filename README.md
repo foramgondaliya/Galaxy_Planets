@@ -2,15 +2,33 @@
 
 A new Flutter project.
 
-## Getting Started
+## Overview
+The Galaxy Planet App is an educational and visually engaging 
+application that allows users to explore the planets in our 
+galaxy. Users can view detailed information about each planet, 
+browse through a gallery of images, add their favorite planets 
+to a favorites list, and switch between light and dark themes 
+for a personalized experience.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+## Planet Catalog: 
+Browse through a list of all the planets in our galaxy.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Planet Detail Page: 
+View comprehensive information about each planet, 
+including facts, descriptions, and multiple images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Image Gallery: 
+Explore additional pictures of each planet in a dedicated 
+gallery.
+
+## Favorite Planets: 
+Add planets to a favorites list for quick access later.
+
+## Theme Toggle: 
+Switch between light and dark themes based on user preference.
+
+## Light/Dark Theme
+The app supports both light and dark themes, enabling users to switch themes according to their preference. The selected theme is saved using SharedPreferences and will persist across sessions.
+
